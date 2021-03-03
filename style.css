@@ -126,3 +126,15 @@ list-style: none;
 .links:hover {
     background-color:pink;
 }
+
+#hobby {
+    text-align: center;
+    background-image:image("code.jfif")
+}
+#inspiration {
+    text-align:center;
+    
+}
+html {
+    scroll-behavior: smooth;
+}
